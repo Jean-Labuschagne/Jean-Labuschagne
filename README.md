@@ -83,10 +83,6 @@ Contact:
 
 [GitHub — Jean-Labuschagne](https://github.com/Jean-Labuschagne) • [LinkedIn](https://www.linkedin.com/in/jean-labuschagne-67605b241/)
 
----
-
-If you prefer relative links inside this same repo instead, I can switch them back. For now these absolute links will work from your profile README or any other repository page.
-
 
 
 <h2>Contact</h2>
