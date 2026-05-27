@@ -47,7 +47,7 @@
   <h3>📈 Telco Customer Churn — Machine Learning</h3>
   <p style="margin:6px 0">Predicts which customers are likely to leave and shows the most effective retention actions — a direct business impact for marketing and product teams.</p>
   <p><strong>Tech:</strong> pandas, scikit-learn, model evaluation</p>
-  <p><strong>Files:</strong> <a href="AI-Bootcamp-Stellenbosch-HyperionDev-/Level 3 - Artificial Intelligence and Machine Learning/M07T05 – Capstone Project – Machine Learning/telco_customer_churn.ipynb">telco_customer_churn.ipynb</a></p>
+  <p><strong>Files:</strong> <a href="Level 3 - Artificial Intelligence and Machine Learning/M07T05 – Capstone Project – Machine Learning/telco_customer_churn.ipynb">telco_customer_churn.ipynb</a></p>
 </div>
 
 <div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
