@@ -35,29 +35,32 @@
 </div>
 
 
+<!-- Polished portfolio README with absolute links to AI-Bootcamp repo -->
+<h1>AI Bootcamp — Portfolio Highlights</h1>
+
 <h2 align="center">Featured Projects</h2>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;">
 
 <div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
-  <h3>📈 Telco Customer Churn — Machine Learning</h3>
-  <p style="margin:6px 0">Predicts which customers are likely to leave and shows the most effective retention actions — a direct business impact for marketing and product teams.</p>
-  <p><strong>Tech:</strong> pandas, scikit-learn, model evaluation</p>
-  <p><strong>Files:</strong> <a href="Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M07T05%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Machine%20Learning/telco_customer_churn.ipynb">telco_customer_churn.ipynb</a></p>
+	<h3>📈 Telco Customer Churn — Machine Learning</h3>
+	<p style="margin:6px 0">Predicts which customers are likely to leave and shows the most effective retention actions — a direct business impact for marketing and product teams.</p>
+	<p><strong>Tech:</strong> pandas, scikit-learn, model evaluation</p>
+	<p><strong>Files:</strong> <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/blob/main/Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M07T05%20%E2%80%93%20Capstone%20Project%20-%20Machine%20Learning/telco_customer_churn.ipynb">telco_customer_churn.ipynb</a></p>
 </div>
 
 <div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
-  <h3>🏠 Ames Housing — Price Prediction</h3>
-  <p style="margin:6px 0">A transparent regression model that predicts home prices and surfaces the top factors that drive value — useful for pricing and investment decisions.</p>
-  <p><strong>Tech:</strong> pandas, scikit-learn, feature engineering</p>
-  <p><strong>Files:</strong> <a href="Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M06T05%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Linear%20Regression%20in%20Action/Linear_Regression_Ames.ipynb">Linear_Regression_Ames.ipynb</a></p>
+	<h3>🏠 Ames Housing — Price Prediction</h3>
+	<p style="margin:6px 0">A transparent regression model that predicts home prices and surfaces the top factors that drive value — useful for pricing and investment decisions.</p>
+	<p><strong>Tech:</strong> pandas, scikit-learn, feature engineering</p>
+	<p><strong>Files:</strong> <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/blob/main/Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M06T05%20%E2%80%93%20Capstone%20Project%20-%20Linear%20Regression%20in%20Action/ames.ipynb">Linear_Regression_Ames.ipynb</a></p>
 </div>
 
 <div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
-  <h3>🚗 Automobile EDA — Data Analysis</h3>
-  <p style="margin:6px 0">A concise, visual report that transforms raw vehicle data into clear recommendations and charts for non‑technical stakeholders.</p>
-  <p><strong>Tech:</strong> Jupyter, Matplotlib, Seaborn</p>
-  <p><strong>Files:</strong> <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Data%20Analysis/Code%20Files/Capstone_Project_template.ipynb">Capstone_Project_template.ipynb</a> · <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Data%20Analysis/Code%20Files/automobile.txt">automobile.txt</a></p>
+	<h3>🚗 Automobile EDA — Data Analysis</h3>
+	<p style="margin:6px 0">A concise, visual report that transforms raw vehicle data into clear recommendations and charts for non‑technical stakeholders.</p>
+	<p><strong>Tech:</strong> Jupyter, Matplotlib, Seaborn</p>
+	<p><strong>Files:</strong> <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/blob/main/Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20-%20Data%20Analysis/Code%20Files/Capstone_Project_template.ipynb">Capstone_Project_template.ipynb</a> · <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/blob/main/Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20-%20Data%20Analysis/Code%20Files/automobile.txt">automobile.txt</a></p>
 </div>
 
 </div>
@@ -66,15 +69,23 @@
 <h2>Two standout beginner projects</h2>
 
 <div style="display:flex;gap:12px;flex-wrap:wrap;">
-  <div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
-    <h4>🗂️ Task Manager</h4>
-    <p>Small multi-user CLI app demonstrating software fundamentals and clear code structure. <a href="Level%201%20-%20Python%20Programming%20for%20AI/M03T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Task%20Manager">Open folder</a></p>
-  </div>
-  <div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
-    <h4>📊 Exploratory Data Analysis</h4>
-    <p>Readable EDA notebooks that show insights and visual storytelling for business stakeholders. <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T08%20%E2%80%93%20Exploratory%20Data%20Analysis">Open folder</a></p>
-  </div>
+	<div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
+		<h4>🗂️ Task Manager</h4>
+		<p>Small multi-user CLI app demonstrating software fundamentals and clear code structure. <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/tree/main/Level%201%20-%20Python%20Programming%20for%20AI/M03T10%20%E2%80%93%20Capstone%20Project%20-%20Task%20Manager">Open folder</a></p>
+	</div>
+	<div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
+		<h4>📊 Exploratory Data Analysis</h4>
+		<p>Readable EDA notebooks that show insights and visual storytelling for business stakeholders. <a href="https://github.com/Jean-Labuschagne/AI-Bootcamp-Stellenbosch-HyperionDev-/tree/main/Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T08%20%E2%80%93%20Exploratory%20Data%20Analysis">Open folder</a></p>
+	</div>
 </div>
+
+Contact:
+
+[GitHub — Jean-Labuschagne](https://github.com/Jean-Labuschagne) • [LinkedIn](https://www.linkedin.com/in/jean-labuschagne-67605b241/)
+
+---
+
+If you prefer relative links inside this same repo instead, I can switch them back. For now these absolute links will work from your profile README or any other repository page.
 
 
 <h2>Non‑technical summary</h2>
