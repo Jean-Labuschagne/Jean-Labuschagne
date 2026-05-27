@@ -1,149 +1,98 @@
-<!-- Profile README for https://github.com/Jean-Labuschagne -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Jean+Labuschagne;AI+%26+Data+Science+Developer;Python+%7C+ML+%7C+Deep+Learning+%7C+NLP" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Jean+Labuschagne;AI+%26+Data+Science+Developer;Python+%7C+ML+%7C+Deep+Learning+%7C+NLP" alt="Typing intro" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Jean-Labuschagne?style=for-the-badge&logo=github&color=24292f)](https://github.com/Jean-Labuschagne?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Jean-Labuschagne&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Jean-Labuschagne)
+<div style="display:flex;gap:8px;justify-content:center;align-items:center;margin-top:8px;flex-wrap:wrap;">
+  <a href="https://github.com/Jean-Labuschagne?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Jean-Labuschagne?style=for-the-badge&logo=github&color=24292f"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Jean-Labuschagne&label=Profile%20views&color=0e75b6&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/jean-labuschagne-67605b241/" style="margin-left:6px;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jean--Labuschagne-blue?style=for-the-badge&logo=linkedin"></a>
+  <span style="display:inline-block;margin-left:8px;color:#666;font-size:0.95rem;padding:6px 10px;border-radius:999px;border:1px solid #eaecef;background:#fbfcfd;">BSc IT (Software Engineering) — 3rd year</span>
+</div>
 
 </div>
 
----
 
-## About me
-
-<img align="right" alt="Jean Labuschagne" width="160" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/122723305?v=4" />
-
-I'm **Jean Labuschagne**, a developer focused on **artificial intelligence**, **data analytics**, and **software engineering**.
-
-I recently completed the **Stellenbosch University Artificial Intelligence Bootcamp** with **HyperionDev**, building **9 capstone projects** across **60+ modules** — from Python fundamentals through classical ML, deep learning, and NLP.
-
-I'm also building full-stack applications (TypeScript / web) and enjoy turning coursework into **portfolio-ready** work.
-
-- 🔭 **Currently:** Strengthening my AI/ML portfolio and shipping polished project READMEs  
-- 🎓 **Education:** SUN AI Bootcamp (HyperionDev) · Software Engineering coursework  
-- 🌱 **Learning:** Neural networks, NLP (spaCy), and production-style data pipelines  
-- 💬 **Ask me about:** Python, pandas, scikit-learn, Jupyter workflows, SQLite  
-- 📫 **Reach me:** Open an issue on any repo or connect via [GitHub](https://github.com/Jean-Labuschagne)
-
-<br clear="right"/>
-
----
-
-## Tech stack
-
-<div align="center">
+<div align="center" style="margin-top:18px;">
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,sqlite,git,github,html,css,js,ts,react,nodejs,vscode,anaconda&perline=8)](https://skillicons.dev)
 
 </div>
 
-<details>
-<summary><b>Domains I work in</b></summary>
 
-| Area | Tools & concepts |
-|------|------------------|
-| **Languages** | Python, TypeScript, JavaScript, HTML/CSS, SQL |
-| **Data & analytics** | NumPy, pandas, Matplotlib, Seaborn, EDA, data cleaning |
-| **Machine learning** | scikit-learn, train/test splits, GridSearchCV, ensemble models |
-| **Deep learning** | PyTorch, TensorFlow/Keras, LSTM/GRU |
-| **NLP** | spaCy, semantic similarity, text classification |
-| **Databases** | SQLite, relational design, CRUD |
-| **Engineering** | Git, OOP, CLI apps, Jupyter, shell scripting |
+<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
+  <div style="max-width:720px;">
+    <h2 style="margin-bottom:6px;">What I do</h2>
+    <p style="margin-top:0;color:#222;line-height:1.45;font-size:1.05rem;">I build practical AI and data solutions that answer business questions: reduce customer loss, predict prices, and deliver clear visual reports anyone can act on. I write reproducible notebooks and executive‑friendly summaries so teams can move from insight to action quickly.</p>
+    <div style="display:flex;gap:10px;margin-top:10px;flex-wrap:wrap;">
+      <span style="background:#f1f9ff;border:1px solid #dfeffb;color:#0366d6;padding:6px 10px;border-radius:16px;font-weight:600">Predictive Models</span>
+      <span style="background:#fff8f1;border:1px solid #fde6cf;color:#b35b00;padding:6px 10px;border-radius:16px;font-weight:600">Data Visualisation</span>
+      <span style="background:#f7fff4;border:1px solid #e4f6df;color:#036d28;padding:6px 10px;border-radius:16px;font-weight:600">Business Impact</span>
+    </div>
+  </div>
+</div>
 
-</details>
 
----
+<h2 align="center">Featured Projects</h2>
 
-## GitHub stats
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;">
 
-<div align="center">
+<div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
+  <h3>📈 Telco Customer Churn — Machine Learning</h3>
+  <p style="margin:6px 0">Predicts which customers are likely to leave and shows the most effective retention actions — a direct business impact for marketing and product teams.</p>
+  <p><strong>Tech:</strong> pandas, scikit-learn, model evaluation</p>
+  <p><strong>Files:</strong> <a href="Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M07T05%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Machine%20Learning/telco_customer_churn.ipynb">telco_customer_churn.ipynb</a></p>
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jean-Labuschagne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jean-Labuschagne&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
+  <h3>🏠 Ames Housing — Price Prediction</h3>
+  <p style="margin:6px 0">A transparent regression model that predicts home prices and surfaces the top factors that drive value — useful for pricing and investment decisions.</p>
+  <p><strong>Tech:</strong> pandas, scikit-learn, feature engineering</p>
+  <p><strong>Files:</strong> <a href="Level%203%20-%20Artificial%20Intelligence%20and%20Machine%20Learning/M06T05%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Linear%20Regression%20in%20Action/Linear_Regression_Ames.ipynb">Linear_Regression_Ames.ipynb</a></p>
+</div>
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Labuschagne&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<div style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;background:#fff;box-shadow:0 8px 24px rgba(3,102,214,0.06);">
+  <h3>🚗 Automobile EDA — Data Analysis</h3>
+  <p style="margin:6px 0">A concise, visual report that transforms raw vehicle data into clear recommendations and charts for non‑technical stakeholders.</p>
+  <p><strong>Tech:</strong> Jupyter, Matplotlib, Seaborn</p>
+  <p><strong>Files:</strong> <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Data%20Analysis/Code%20Files/Capstone_Project_template.ipynb">Capstone_Project_template.ipynb</a> · <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Data%20Analysis/Code%20Files/automobile.txt">automobile.txt</a></p>
+</div>
 
 </div>
 
----
 
-## Featured projects
+<h2>Two standout beginner projects</h2>
 
-### 🚀 Applications & web
+<div style="display:flex;gap:12px;flex-wrap:wrap;">
+  <div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
+    <h4>🗂️ Task Manager</h4>
+    <p>Small multi-user CLI app demonstrating software fundamentals and clear code structure. <a href="Level%201%20-%20Python%20Programming%20for%20AI/M03T10%20%E2%80%93%20Capstone%20Project%20%E2%80%93%20Task%20Manager">Open folder</a></p>
+  </div>
+  <div style="border:1px solid #e1e4e8;border-radius:8px;padding:12px;flex:1;min-width:260px;box-shadow:0 8px 20px rgba(3,102,214,0.05);">
+    <h4>📊 Exploratory Data Analysis</h4>
+    <p>Readable EDA notebooks that show insights and visual storytelling for business stakeholders. <a href="Level%202%20-%20Data%20Analytics%20and%20Database%20Systems%20for%20AI/M05T08%20%E2%80%93%20Exploratory%20Data%20Analysis">Open folder</a></p>
+  </div>
+</div>
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **[photo-map-app](https://github.com/Jean-Labuschagne/photo-map-app)** | Photo map application (TypeScript) | [Repo](https://github.com/Jean-Labuschagne/photo-map-app) · [Live demo](https://photo-map-app-nine.vercel.app) |
-| **[Connect-2-Peer](https://github.com/Jean-Labuschagne/Connect-2-Peer)** | Hackathon mentoring platform connecting learners with helpers | [Repo](https://github.com/Jean-Labuschagne/Connect-2-Peer) |
-| **[grievance-portal](https://github.com/Jean-Labuschagne/grievance-portal)** | Grievance submission portal | [Repo](https://github.com/Jean-Labuschagne/grievance-portal) |
 
-### 🎓 AI bootcamp capstones (HyperionDev / SUN)
+<h2>Non‑technical summary</h2>
+<p>I turn data into decisions: I find the story in the numbers, build practical models when they add value, and deliver concise visual reports that business teams can act on.</p>
 
-> Full coursework lives in a private bootcamp repository. Highlights below mirror the public capstone-style work I document for employers.
 
-<table>
-<tr>
-<th>Project</th>
-<th>Stack & focus</th>
-</tr>
-<tr>
-<td><b>Machine Learning — Telco churn</b></td>
-<td>Supervised classification on <code>Telco-Customer-Churn</code> · pandas · scikit-learn · evaluation metrics</td>
-</tr>
-<tr>
-<td><b>Neural networks — Slogan classification</b></td>
-<td>Deep learning notebook + <code>slogan-valid.csv</code> · text classification pipeline</td>
-</tr>
-<tr>
-<td><b>Data analysis — Automobile EDA</b></td>
-<td>Jupyter EDA · written report · Matplotlib/Seaborn visualisations</td>
-</tr>
-<tr>
-<td><b>Database capstone — <code>shelf_track.py</code></b></td>
-<td>SQLite ebookstore CRUD · context-managed connections · Python CLI</td>
-</tr>
-<tr>
-<td><b>Task Manager</b></td>
-<td>Multi-user CLI · auth · file persistence (<code>tasks.txt</code>, <code>user.txt</code>)</td>
-</tr>
-<tr>
-<td><b>Finance calculator</b></td>
-<td>Bond & investment calculators · Python control structures</td>
-</tr>
-<tr>
-<td><b>LSTM / GRU sequences</b></td>
-<td>PyTorch & Keras notebooks · preprocessing · sequence modelling</td>
-</tr>
-<tr>
-<td><b>NLP (spaCy)</b></td>
-<td>Tokenisation · <code>en_core_web_md</code> · semantic similarity scripts</td>
-</tr>
-</table>
+<h2>Contact</h2>
+<p>Open an issue on any repo or connect via GitHub — I'm happy to prepare short, one‑page project summaries for hiring managers.</p>
 
-### 🐍 Python coursework & practice
+<p style="margin-top:8px;">
+  <a href="https://github.com/Jean-Labuschagne"><img src="https://img.shields.io/badge/GitHub-Jean--Labuschagne-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jean-labuschagne-67605b241/" style="margin-left:8px;"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-| Repo | Notes |
-|------|-------|
-| [git-task](https://github.com/Jean-Labuschagne/git-task) | Git workflow practice |
-| [example-repo](https://github.com/Jean-Labuschagne/example-repo) | Python examples |
-| [skills-build-applications-w-copilot-agent-mode](https://github.com/Jean-Labuschagne/skills-build-applications-w-copilot-agent-mode) | GitHub Copilot agent mode exercise |
+<p style="margin-top:18px;text-align:center;">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python" alt="Made with Python"> &nbsp;
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat&logo=jupyter" alt="Jupyter"> &nbsp;
+  <img src="https://img.shields.io/badge/Powered%20by-Scikit--learn-F7931E?style=flat&logo=scikit-learn" alt="scikit-learn">
+</p>
 
----
 
-## Bootcamp curriculum (summary)
-
-```text
-Level 1 — Python Programming for AI
-  Variables · control flow · OOP · files · Git · Task Manager capstone
-
-Level 2 — Data Analytics & Database Systems for AI
-  SQL · SQLite · NumPy · pandas · visualisation · EDA · capstones
-
-Level 3 — Artificial Intelligence & Machine Learning
-  Regression · classification · unsupervised learning · neural nets · NLP · capstones
