@@ -79,14 +79,8 @@
   </div>
 </div>
 
-Contact:
-
-[GitHub — Jean-Labuschagne](https://github.com/Jean-Labuschagne) • [LinkedIn](https://www.linkedin.com/in/jean-labuschagne-67605b241/)
-
-
-
 <h2>Contact</h2>
-<p>Open an issue on any repo or connect via GitHub.</p>
+[GitHub — Jean-Labuschagne](https://github.com/Jean-Labuschagne) • [LinkedIn](https://www.linkedin.com/in/jean-labuschagne-67605b241/)
 
 <p style="margin-top:8px;">
   <a href="https://github.com/Jean-Labuschagne"><img src="https://img.shields.io/badge/GitHub-Jean--Labuschagne-181717?style=flat&logo=github" alt="GitHub"></a>
