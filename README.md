@@ -88,12 +88,9 @@ Contact:
 If you prefer relative links inside this same repo instead, I can switch them back. For now these absolute links will work from your profile README or any other repository page.
 
 
-<h2>Non‑technical summary</h2>
-<p>I turn data into decisions: I find the story in the numbers, build practical models when they add value, and deliver concise visual reports that business teams can act on.</p>
-
 
 <h2>Contact</h2>
-<p>Open an issue on any repo or connect via GitHub — I'm happy to prepare short, one‑page project summaries for hiring managers.</p>
+<p>Open an issue on any repo or connect via GitHub.</p>
 
 <p style="margin-top:8px;">
   <a href="https://github.com/Jean-Labuschagne"><img src="https://img.shields.io/badge/GitHub-Jean--Labuschagne-181717?style=flat&logo=github" alt="GitHub"></a>
