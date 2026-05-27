@@ -80,8 +80,6 @@
 </div>
 
 <h2>Contact</h2>
-[GitHub — Jean-Labuschagne](https://github.com/Jean-Labuschagne) • [LinkedIn](https://www.linkedin.com/in/jean-labuschagne-67605b241/)
-
 <p style="margin-top:8px;">
   <a href="https://github.com/Jean-Labuschagne"><img src="https://img.shields.io/badge/GitHub-Jean--Labuschagne-181717?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/jean-labuschagne-67605b241/" style="margin-left:8px;"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
