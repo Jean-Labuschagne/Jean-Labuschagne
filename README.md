@@ -25,7 +25,7 @@
 <div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
   <div style="max-width:720px;">
     <h2 style="margin-bottom:6px;">What I do</h2>
-    <p style="margin-top:0;color:#222;line-height:1.45;font-size:1.05rem;">I build practical AI and data solutions that answer business questions: reduce customer loss, predict prices, and deliver clear visual reports anyone can act on. I write reproducible notebooks and executive‑friendly summaries so teams can move from insight to action quickly.</p>
+    <p style="margin-top:0;color:#222;line-height:1.45;font-size:1.05rem;">I build practical AI and data solutions that answer business questions, reduce customer loss, predict prices, and deliver clear visual reports anyone can act on. I write reproducible notebooks and executive‑friendly summaries so teams can move from insight to action quickly.</p>
     <div style="display:flex;gap:10px;margin-top:10px;flex-wrap:wrap;">
       <span style="background:#f1f9ff;border:1px solid #dfeffb;color:#0366d6;padding:6px 10px;border-radius:16px;font-weight:600">Predictive Models</span>
       <span style="background:#fff8f1;border:1px solid #fde6cf;color:#b35b00;padding:6px 10px;border-radius:16px;font-weight:600">Data Visualisation</span>
